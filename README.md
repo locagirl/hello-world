@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+Just another repository in this busy world.  Pretty much about lorem ipsum ...
